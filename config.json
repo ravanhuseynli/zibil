@@ -1,0 +1,49 @@
+{
+    "buttons": [
+        {
+            "id": 1,
+            "name": "Fon360 Portföy",
+            "std_url": "https://fon360.net/panel/portfoy",
+            "kod_url": "https://fon360.net/panel/fon/%KOD%",
+            "zoom": {
+                "1000": 70,
+                "1300": 80,
+                "1700": 90
+            }
+        },
+        {
+            "id": 2,
+            "name": "TEFAS",
+            "std_url": "https://www.tefas.gov.tr/FonKarsilastirma.aspx",
+            "kod_url": "https://www.tefas.gov.tr/FonAnaliz.aspx?FonKod=%KOD%",
+            "zoom": {
+                "1000": 85,
+                "1300": 95,
+                "1700": 100
+            }
+        },
+        {
+            "id": 3,
+            "name": "Gold & Silver",
+            "std_url": "https://www.bullionbypost.eu/gold-price/week/ounces/USD/#show-chart",
+            "kod_url": "https://www.bullionbypost.eu/gold-price/week/ounces/USD/#show-chart",
+            "zoom": {
+                "1000": 70,
+                "1300": 80,
+                "1700": 90
+            }
+        },
+        {
+            "id": 4,
+            "name": "Buton 4",
+            "std_url": "https://example.com",
+            "kod_url": "https://example.com/search?q=%kod%",
+            "zoom": {
+                "1000": 70,
+                "1300": 85,
+                "1700": 100
+            }
+        }
+    ],
+    "cacheHours": 2
+}
