@@ -3,8 +3,8 @@
         {
             "id": 1,
             "name": "Fon360 Portföy",
-            "std_url": "https://example.com",
-            "kod_url": "https://example.com/search?q=%kod%",
+            "std_url": "https://fon360.net/panel/portfoy",
+            "kod_url": "https://fon360.net/panel/fon/%KOD%",
             "zoom": {
                 "1000": 70,
                 "1300": 80,
@@ -25,8 +25,8 @@
         {
             "id": 3,
             "name": "Gold & Silver",
-            "std_url": "https://www.bullionbypost.eu/gold-price/week/ounces/USD/#show-chart",
-            "kod_url": "https://www.bullionbypost.eu/gold-price/week/ounces/USD/#show-chart",
+            "std_url": "https://fintables.com/fonlar/getiri",
+            "kod_url": "https://fintables.com/fonlar/%KOD%",
             "zoom": {
                 "1000": 70,
                 "1300": 80,
@@ -35,9 +35,9 @@
         },
         {
             "id": 4,
-            "name": "Buton 4",
-            "std_url": "https://example.com",
-            "kod_url": "https://example.com/search?q=%kod%",
+            "name": "Gold & Silver",
+            "std_url": "https://www.bullionbypost.eu/gold-price/week/ounces/USD/#show-chart",
+            "kod_url": "https://www.bullionbypost.eu/silver-price/week/ounces/USD/#show-chart",
             "zoom": {
                 "1000": 70,
                 "1300": 85,
